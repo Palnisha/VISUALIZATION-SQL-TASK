@@ -1,0 +1,44 @@
+Summary of Findings: Customer Retention & Sales Analysis for Alt Mobility
+
+1. Key Insights from SQL Queries
+Our analysis of customer_orders.csv and payments.csv uncovered important trends in order fulfillment, sales performance, and payment success rates:
+- Order Fulfillment Trends:- A significant portion of orders remain in-progress for extended periods, potentially indicating delays in processing or logistical challenges.
+- Completed orders show stable growth month-over-month, suggesting improving operational efficiency.
+
+- Revenue Insights:- High-value orders come predominantly from repeat customers, reinforcing the importance of retention strategies.
+- Certain periods exhibit payment failures, potentially affecting revenue streams.
+
+- Customer Segmentation & Repeat Ordering Behavior:- A majority of customers place repeat orders, indicating strong brand loyalty.
+- New customers contribute a lower share of total revenue, highlighting an opportunity for improved customer onboarding strategies.
+
+- Payment Success vs. Failure Trends:- A noticeable percentage of payments fail due to transaction errors, possibly linked to specific payment methods or customer demographics.
+- Prepaid transactions have higher success rates than postpaid billing, hinting at reliability in upfront payments.
+
+
+
+2. Observations from Customer Retention Analysis
+Visualizing customer retention trends using Power BI heatmaps, line charts, and bar graphs yielded the following insights:
+- Early Retention Trends:- Customers tend to repurchase within the first 3 months of their initial purchase.
+- Retention gradually declines beyond Month 6, suggesting the need for targeted re-engagement efforts.
+
+- Retention Across Cohorts:- Customers who made their first purchase in peak business months (e.g., festive periods) show stronger retention rates.
+- Retention drops in off-season months, indicating a seasonal impact on repeat business.
+
+- Retention Discrepancies in Payment Models:- Customers opting for subscription-based financing show higher retention than those purchasing via one-time payments.
+- Retention among failed-payment users is significantly lower, underscoring the importance of payment reliability.
+
+
+
+3. Recommendations for Alt Mobility
+Based on these findings, here are key strategic recommendations:
+- Optimize Order Fulfillment:- Reduce order delays by enhancing fleet logistics tracking and improving estimated delivery times.
+- Introduce automated notifications for pending orders to keep customers engaged.
+
+- Improve Customer Retention Strategies:- Implement a loyalty program rewarding frequent customers.
+- Offer personalized renewal incentives for customers nearing 6-month usage decline periods.
+
+- Enhance Payment Reliability:- Provide alternative payment methods with higher success rates.
+- Strengthen follow-ups on failed transactions to minimize customer churn due to payment issues.
+
+
+
