@@ -1,6 +1,6 @@
 # SQL and Visualization TASK
 
-## SQL QUERIES
+# SQL QUERIES
 
 # Overview
 
@@ -28,7 +28,7 @@ The dataset used:
  
 # Objective:
 
-## Analyze order fulfillment rates, sales trends, and key revenue metrics.
+# Analyze order fulfillment rates, sales trends, and key revenue metrics.
 
 # Approach:
 
@@ -163,19 +163,19 @@ high-retention periods, and optimize engagement strategies.
 
 As per my experienced while doing this project .......
 
-Insights from Retention Data
+## Insights from Retention Data
 
 - Sharp Decline After First Month- Every cohort starts at 100% retention in its first purchase month.
 
 - Significant drop occurs in Month 2, where retention falls below 10% across multiple cohorts.
 
-#  Possible Cause: Lack of follow-up engagement after the first purchase.
+##  Possible Cause: Lack of follow-up engagement after the first purchase.
 
 - Fluctuations in Later Months- Retention percentages vary between 6% and 11% in the following months.
 
 - Some months see slight growth (Month 4 and Month 10 in certain cohorts), suggesting some delayed repeat purchases.
 
-# Opportunity: Retarget inactive customers after a few months with personalized incentives.
+## Opportunity: Retarget inactive customers after a few months with personalized incentives.
 
 - Stronger Retention Among Middle Cohorts- Cohorts 5–8 have slightly higher repeat percentages over time.
 
