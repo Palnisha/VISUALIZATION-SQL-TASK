@@ -71,7 +71,6 @@ The dataset used:
  #  Conclusion
  
 This README outlines the approach and logic behind the SQL queries used for Alt Mobility’s data analysis. The queries help derive business insights that can optimize operational 
-
 efficiency and improve customer retention. The full set of queries can be accessed in the repository.
 
 
@@ -138,7 +137,6 @@ Approach
 # Conclusion for Visualization
 
 This README outlines the SQL queries, data extraction, and visualizations used for customer retention analysis. The findings help Alt Mobility assess customer loyalty trends, identify 
-
 high-retention periods, and optimize engagement strategies.
 
 
