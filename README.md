@@ -1,4 +1,4 @@
-# VISUALIZATION SQL and visualization TASK
+# SQL and Visualization TASK
 
 ## SQL QUERIES
 
