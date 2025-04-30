@@ -26,11 +26,7 @@ The dataset used:
 
  #  Task 1: Order and Sales Analysis
  
-# Objective:
-
-# Analyze order fulfillment rates, sales trends, and key revenue metrics.
-
-# Approach:
+###  Approach:
 
 - Identify order status distribution to understand fulfillment trends.
   
@@ -44,11 +40,7 @@ The dataset used:
 
 #  Task 2: Customer Analysis
 
-# Objective:
-
-# Examine customer ordering behavior, segmentation, and repeat purchases.
-
-# Approach:
+### Approach:
 
 - Identify repeat customers to study loyalty trends.
   
@@ -58,11 +50,7 @@ The dataset used:
 
 #  Task 3: Payment Status Analysis
 
-# Objective:
-
-# Investigate payment success rates, failure trends, and transaction patterns.
-
-# Approach:
+### Approach:
 
 - Analyze payment success rates to evaluate financial performance.
   
@@ -72,11 +60,7 @@ The dataset used:
 
  #  Task 4: Order Details Report
  
-# Objective:
-
-# Create a comprehensive report linking order and payment details.
-
-# Approach:
+### Approach:
 
 - Join orders and payments datasets to establish a unified view.
   
@@ -86,7 +70,6 @@ The dataset used:
 
  #  Conclusion
  
-
 This README outlines the approach and logic behind the SQL queries used for Alt Mobility’s data analysis. The queries help derive business insights that can optimize operational 
 
 efficiency and improve customer retention. The full set of queries can be accessed in the repository.
@@ -159,23 +142,22 @@ This README outlines the SQL queries, data extraction, and visualizations used f
 high-retention periods, and optimize engagement strategies.
 
 
-# Final Thought
+# Final Thought : Insights from Retention Data
 
 As per my experienced while doing this project .......
 
-## Insights from Retention Data
 
 - Sharp Decline After First Month- Every cohort starts at 100% retention in its first purchase month.
 
 - Significant drop occurs in Month 2, where retention falls below 10% across multiple cohorts.
 
-##  Possible Cause: Lack of follow-up engagement after the first purchase.
+###  Possible Cause: Lack of follow-up engagement after the first purchase.
 
 - Fluctuations in Later Months- Retention percentages vary between 6% and 11% in the following months.
 
 - Some months see slight growth (Month 4 and Month 10 in certain cohorts), suggesting some delayed repeat purchases.
 
-## Opportunity: Retarget inactive customers after a few months with personalized incentives.
+### Opportunity: Retarget inactive customers after a few months with personalized incentives.
 
 - Stronger Retention Among Middle Cohorts- Cohorts 5–8 have slightly higher repeat percentages over time.
 
